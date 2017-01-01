@@ -1,0 +1,25 @@
+{
+  "name": "node-download-file",
+  "version": "0.1.0",
+  "description": "nodejs download",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itellyouu/node-download.git"
+  },
+  "keywords": [
+    "node-download"
+  ],
+  "author": "wubin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itellyouu/node-download/issues"
+  },
+  "homepage": "https://github.com/itellyouu/node-download#readme"
+}
