@@ -1,7 +1,9 @@
 # node-download
-nodejs下载插件
-
+[![npm version](https://img.shields.io/npm/v/node-download-file.svg)](https://www.npmjs.com/package/node-download-file)
 ## 使用方法
+```bash
+npm install node-download-file --save
+```
 #### File(URL, dir, filename[Optional], callback[Optional])
 ```js
 var download = require('node-download')
