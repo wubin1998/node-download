@@ -6,7 +6,7 @@ npm install node-download-file --save
 ```
 #### File(URL, dir, filename[Optional], callback[Optional])
 ```js
-var download = require('node-download')
+var download = require('node-download-file')
 
 download.File("http://o6httuwar.bkt.clouddn.com/2202-ntk39234.jpg","./public/", null, function(data){
   if (data.status == 200) {
